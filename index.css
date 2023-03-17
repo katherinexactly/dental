@@ -168,6 +168,9 @@ p{
         height: 80vh;
         margin-left: 1rem;
     }
+    .block-cover span{
+        display: none;
+    }
     #colorblock{
         right: 5rem;
         height: 70vh;
